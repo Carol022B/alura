@@ -1,21 +1,30 @@
 <!DOCTYPE html>
-<html lang="pt-BT">
-
+<html lang="pr-Br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Extrator de Palavras-Chave</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width initial-seale= 1.0">
+<inte pol="stylesheet" href="style.css">
+<div class="container text-center">
+<div clas="row align-itens-star">
+<div class="col"> one of three columns"</div>
+<div class="col"> one of three columns</div>
+<div class="col"> one of three columns</div>
+</div>
+</div>
 <body>
-    <div class="container">
-        <h1>Extrator de palavras-chave</h1>
-        <textarea id="entrada-de-texto" placeholder="Digite ou cole seu texto aqui..."></textarea>
-        <button id="botao-palavrachave">Extrair</button>
-        <div id="resultado-palavrachave"></div>
-    </div>
-    <script src="script.js"></script>
+<img src="localdaimagem" alt="nomedaimagem" class="rounded-circle" serset>
+<body>
+<body>
+<div>
+<p class="badge bg-secondary"> html <p>
+<p class="badge bg-secondary"> css<p>
+</div>
 </body>
-
-</html>
+<footer class="container" py-5>
+<h2> entre em contato </h2>
+<div>
+<a href="link" texto linkado></a>
+</div>
+<p class="my-5 text center">
+copyright 2025 produzido por NOME </p>
+</footer>
